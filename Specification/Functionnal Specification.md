@@ -44,7 +44,7 @@ NPC,  -->
 
 ## Definitions 
 
-[^1]: B3 : The B3 is the next location for the school ALGOSUP
+[^1]: B3 : The B3 is the next location for the school ALGOSUP at the center of Vierzon
 
 [^2]: NPC : NPC stand for Non Playable Character, will be an A.I implemented in the application,
 

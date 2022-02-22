@@ -54,6 +54,10 @@ We used this version because it's the last version of .NET and we wanted to use 
 
 We used this version because it's the last LTS version in order to have the best stability throughout the project 
 
+#### Templates of project unity 
+
+We decided to use the template URP because it will simplify the rendering at the end of the project, it will also allow us to use a Graphic tool to program shaders in order to have better graphics and effects in the simulation.
+
 ### Device compatibility 
 
 VR headset :
@@ -69,3 +73,9 @@ GitHub <PUT THE LINK HERE>
 
 
 ### Terminology
+
+[^1]: URP: Universal Render Pipeline, is a prebuilt scriptable render pipeline made in order to easily optimized graphic across a range of platforms 
+
+[^2]: LTS: Long Term Support, it means this version of the software is more stable for a long time
+
+[^3]: B3 : The B3 is the next location for the school ALGOSUP at the center of Vierzon
