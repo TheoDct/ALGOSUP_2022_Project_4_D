@@ -28,6 +28,10 @@ Don't be usable with all VR headset
 Move into the B3, Make interaction with environnement, Security System, 
 <!-- WIP -->
 
+## UseCases
+
+[UseCases](./UseCases.png)
+
 ## Configuration 
 
 Have a headset compatible, download the application 
