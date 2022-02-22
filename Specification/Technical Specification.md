@@ -17,7 +17,7 @@ Technical Specifications for the project B3
 
 ### Reviewers 
 
-Franck Jeannin, Sébastien Goisbeault
+[Franck Jeannin](https://github.com/frje), Sébastien Goisbeault
 
 ### Context
 
@@ -38,15 +38,15 @@ Test on all VR device, have a full interaction with all the NPC (Speak, ), recre
 
 ### Technologies Used
 
-.NET
-Unity
-GitHub
+[.NET](https://docs.microsoft.com/fr-fr/dotnet/)
+[Unity](https://unity.com/)
+[GitHub](https://github.com/TheoDct/ALGOSUP_2022_Project_4_D/tree/main)
 
-### .NET Version
+<!-- ### .NET Version
 
 6.0
 
-We used this version because it's the last version of .NET and we wanted to use something up-to-date
+We used this version because it's the last version of .NET and we wanted to use something up-to-date -->
 
 ### Unity Version
 
