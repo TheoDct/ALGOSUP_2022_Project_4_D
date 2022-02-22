@@ -34,7 +34,7 @@ The actual Minimum Viable Product is a simple simulation of the B3 where the use
 ### Out of scope
 
 We have some 
-Test on all VR device, have a full interaction with all the NPC (Speak, ), recreate at a 1:1 scale the buildings, make multiplayers, 
+Test on all VR device, have a full interaction with all the NPC (Speak, ), make multiplayers, 
 
 ### Technologies Used
 
