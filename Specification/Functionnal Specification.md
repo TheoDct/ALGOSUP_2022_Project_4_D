@@ -2,26 +2,50 @@
 
 ## Project Scope
 
-- Goals: Programming a VR simulation of a visit day at ALGOSUP inside the B3 
-- Deliverables: Functionnal and technical specifications, simulation of a visit at ALGOSUP inside the B3
+- Goals: Programming a VR simulation of a visit day at [ALGOSUP](https://www.algosup.com/) inside the B3[^1] 
+- Deliverables: Functionnal and technical specifications, simulation of a visit at ALGOSUP inside the B3[^1] 
 - Features: 
     - Move into the B3
     - Make interaction with environnement
     - Security System
     - NPC 
-    - 
-- tasks: convert .bmix into something usable by unity, make some 3D objects to make the experience better, 
-- deadline: 7 April 2022
-- 
-
+    - Indication to visit (GPS)
+    - Have multiples characters 
+- Tasks: convert .bmix into something usable by Unity, make some 3D objects to make the experience better, make the features into the software, 
+- Deadline: 7 April 2022
+<!-- WIP -->
 ## Targets Audience 
 
 Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout.
 
-## 
+## Risks and assumptions
+
+Don't be usable with all VR headset
+<!-- WIP -->
+
+## Requirements
+
+Move into the B3, Make interaction with environnement, Security System, 
+<!-- WIP -->
+
+## UseCases
+
+![SADC](./UseCases.png)
+
+## Configuration 
+
+Have a headset compatible, download the application 
+
+<!-- ## Non functionnal requirements 
+
+NPC,  -->
+
+<!-- ## Error reporting -->
 
 ## Definitions 
 
-[^1]: NPC : 
+[^1]: B3 : The B3 is the next location for the school ALGOSUP at the center of Vierzon
 
-[^2]: VR : 
+[^2]: NPC : NPC stand for Non Playable Character, will be an A.I implemented in the application,
+
+[^3]: VR : VR stand for Virtual Reality, 
