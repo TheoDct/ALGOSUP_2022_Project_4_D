@@ -44,8 +44,8 @@ NPC,  -->
 
 ## Definitions 
 
-[^1]: B3 : The B3 is the next location for the school ALGOSUP at the center of Vierzon
+ B3 : The B3 is the next location for the school ALGOSUP at the center of Vierzon
 
-[^2]: NPC : NPC stand for Non Playable Character, will be an A.I implemented in the application,
+ NPC : NPC stand for Non Playable Character, will be an A.I implemented in the application,
 
-[^3]: VR : VR stand for Virtual Reality, 
+ VR : The definition of virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The definition of ‘virtual’ is near and reality is what we experience as human beings. So the term ‘virtual reality’ basically means ‘near-reality’. This could, of course, mean anything but it usually refers to a specific type of reality emulation.
