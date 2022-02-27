@@ -23,7 +23,7 @@ At 15h30, she returns to her class. <br>
 At 16h, she quits the class to go to the lady's toilet.
 At 17h, she quits the school with a friend. <br>
 
-## Julia (manager1) :<br>
+## Julia (Staff1) :<br>
 She comes to school by bike,she arrives at the entry of the school at 08h25. <br>
 She goes to the administration room. <br>
 At 12h, she goes to the staff's restaurant and heat her meal.<br>
@@ -37,7 +37,7 @@ She goes to the cleaning room to take her staff and go cleaning. <br>
 She is with 2 others people. <br>
 She returns to the cleaning room and quits the scholl at 18h30. <br>
 
-## Patrick (teacher1) :<br>
+## Patrick (skateholders1) :<br>
 He comes to school by car,he arrives at the entry of the school at 08h45. <br>
 He goes to the teacher's room. <br>
 At 08h55, he goes to his classroom. <br>
@@ -55,7 +55,7 @@ At 17h40, he leaves the school.
 He comes by car, he arrives at the entry of the school with a  whellchair. <br>
 At 9h, he goes to the amphi for a computer science class. <br>
 At 10h45, he goes to the man's toilet.<br>
-At 12h30, he goes to the restaurant to heat his meal.<br>
+At 12h30, he goes to the restaurant to eat his meal.<br>
 At 13h25, he goes to a project room to work with his team.<br>
 At 15h15, he goes to take a coffee.<br>
 At 15h25, he returns to his project room.<br>

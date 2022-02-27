@@ -8,12 +8,25 @@ Technical Specifications for the project B3
 
 ## Team
 
-[Martin Lorut Gauriat](https://github.com/MartinLorutGauriat)<br>
+## Teams Members 
+
+|Members|Roles |
+|:---:|:---:|
+|[Arthur Lemoine](https://github.com/arthur-lemo1ne)| Tech Leader|
+|[Théo Diancourt](https://github.com/TheoDct)| Project Manager|
+|[Martin Lorut Gauriat](https://github.com/MartinLorutGauriat)| Team Member|
+|[Karine Vinette](https://github.com/KarineVinette)| Team Member|
+|[Nicolas Mida](https://github.com/Nicolas-Mida)| Team Member|
+|[Alexandre Bobis](https://github.com/AlexandreBobis)| Team Member|
+
+
+
+<!-- [Martin Lorut Gauriat](https://github.com/MartinLorutGauriat)<br>
 [Karine Vinette](https://github.com/KarineVinette)<br>
 [Nicolas Mida](https://github.com/Nicolas-Mida)<br>
 [Arthur Lemoine](https://github.com/arthur-lemo1ne)<br>
 [Alexandre Bobis](https://github.com/AlexandreBobis)<br>
-[Théo Diancourt](https://github.com/TheoDct)<br>
+[Théo Diancourt](https://github.com/TheoDct)<br> -->
 
 ### Reviewers 
 
