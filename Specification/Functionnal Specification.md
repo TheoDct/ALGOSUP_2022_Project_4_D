@@ -41,7 +41,7 @@
 - Tasks: convert .bmix into something usable by Unity, make some 3D objects to make the experience better, make the features into the software, 
 - Deadline: 7 April 2022 -->
 
-For this project we need to create a VR simulation of a regular day at Algosup in the next school building called the B3 with features depending on your characters and his roles in the school.
+For this project we need to create a VR[^3] simulation of a regular day at Algosup in the next school building called the B3[^1] with features depending on your characters and his roles in the school.
 
 We need to make some modification to the existing renovation plan in order to repair some mistakes made by the architect.
 
@@ -49,23 +49,23 @@ We need to make some modification to the existing renovation plan in order to re
 
 ## Ressources 
 
-For this project, the architect give us a 3d file in .ifc of the building and a 2d plan in .pdf 
+For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf 
 
-To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2
+To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^5]
 
 ### Technologies Used 
 
 We will use these softwares to achieve the project : 
 
-Unity :
-- Pro Builder
-- Netcode
-- Relay
-- Lobby
-- Vivox
-Visual Studio
-Git 
-CAD Exchanger
+Unity[^6] :
+- Pro Builder[^7]
+- Netcode[^8]
+- Relay[^9]
+- Lobby[^10]
+- Vivox[^11]
+Visual Studio[^12]
+Git[^13]
+CAD Exchanger[^14]
 
 ## Targets Audience 
 
@@ -73,7 +73,7 @@ Our targets audience is all the people who have an interest in ALGOSUP and want 
 
 ## Risks and assumptions
 
-Don't be usable with all VR headset.
+Don't be usable with all VR[^3] headset.
 
 Bad performance while using the headset.
 
@@ -87,7 +87,7 @@ Don't got the time to create a stable multiplayer version.
 
 - Should have a good feeling while moving in the building. 
 - Interract with as many objects as possible.
-- Convert the B3 3D file into something usable with Unity. 
+- Convert the B3[^1] 3D file into something usable with Unity[^6]. 
 - Get the most realistic possible simulation.
 - Time management. 
 - Have differents scenarios depending on the role chosen :
@@ -99,18 +99,16 @@ Don't got the time to create a stable multiplayer version.
     - Change the utility of some room 
     - Reform the design 
 - A map so users know where they are all the time.
-- NPC to replace actual students 
+- NPC[^2] to replace actual students 
 <!-- WIP -->
 
 ## UseCases
 
 The reason of this project is to have a preview of the building finished, while we upgrade some points to improve the overall experience.
-<!-- 
-With this someone interested by some way to Algosup should be able to have a whole new level  -->
 
 With this, Algosup should be able to have a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
 
-This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR Headset 
+This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR[^3] Headset 
 
 <br>
 
@@ -120,7 +118,7 @@ This will be useful because we can imagine a presentation to some investors, fut
 We think about multiple cases : 
 - Student : Marc
 - Student with Disability : Bruno
-- Stakegolders : Patrick
+- Stakeholders : Patrick
 - Janitors : Marie 
 - Staff : Julia 
 <!-- Add a Personae About Franck, with all the access into the school  -->
@@ -134,6 +132,7 @@ Have a headset compatible, download the application  -->
 NPC,  -->
 
 <!-- ## Error reporting -->
+
 
 ## Definitions 
 
