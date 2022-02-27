@@ -9,6 +9,7 @@
   - [Risks and assumptions](#risks-and-assumptions)
   - [Requirements](#requirements)
   - [UseCases](#usecases)
+  - [Definitions](#definitions)
 
 </details>
 <br>
@@ -134,7 +135,7 @@ NPC,  -->
 
 <!-- ## Error reporting -->
 
-Footnotes: 
+## Definitions 
 
 [^1]: The B3 is an old building in the center of Vierzon, which is also the next location for the connected campus who are going to be composed by Algosup, the CNAM and an incubator for start-up
 
