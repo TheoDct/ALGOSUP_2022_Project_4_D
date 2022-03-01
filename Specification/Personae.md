@@ -102,6 +102,11 @@ At 15h15, he goes to take a coffee.<br>
 At 15h25, he returns to his project room.<br>
 At 17h, he leaves the school.
 
+
+
+
+
+
 ## Questions:<br>
 1. Where do we put our meal for the lunch the morning, is there enough cooler? Can someone steals the meal (we are 150 students)?<br>
 2. Do we have enough toilets for men? (it needs two toilets for 20 people)

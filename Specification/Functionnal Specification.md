@@ -15,8 +15,8 @@
 <br>
 
 # Overview
-
-<!-- ## Teams Members 
+<!-- 
+## Teams Members
 
 |Members|Roles |
 |:---:|:---:|
@@ -123,13 +123,12 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 <br>
 
-![SADC](./UseCases.png)
-
 We think about multiple cases :
 
 - Student : Marc
 - Student with Disability : Bruno
-- Stakeholders : Patrick
+- ![Stakeholders](Files/TIRVALD_Lonus.png)
+
 - Janitors : Marie
 - Staff : Julia
 
