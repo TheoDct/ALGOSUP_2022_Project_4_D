@@ -126,7 +126,7 @@ This will be useful because we can imagine a presentation to some investors, fut
 We think about multiple cases :
 
 - ![Student](Files/TORRES_Marc.png)
-- Student with Disability : Bruno
+- ![Student](Files/Claire_FRANCIS.png)
 - ![Stakeholders](Files/TIRVALD_Lonus.png)
 - Janitors : Marie
 - ![Staff](Files/Marcel_DUPONT.png)
