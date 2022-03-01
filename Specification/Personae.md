@@ -1,11 +1,11 @@
- ## Marc (student1) :<br>
+ ## Marc Dupond(student1) :<br>
 
   Basics Informations : <br>
   -<strong>Profile :</strong> <br>
   -<strong>Age :</strong>  <br>
   -<strong>Occupation :</strong> <br>
   -<strong>Location :</strong> <br>
- 
+
 He comes to school by car,he arrives at the entry of the school late by 5 minutes.<br>
 The door is closed, he has to ring and be registered late by the manager.<br>
 He can wait in a room dedicated as the next break at 10h45.<br>
@@ -101,11 +101,6 @@ At 13h25, he goes to a project room to work with his team.<br>
 At 15h15, he goes to take a coffee.<br>
 At 15h25, he returns to his project room.<br>
 At 17h, he leaves the school.
-
-
-
-
-
 
 ## Questions:<br>
 1. Where do we put our meal for the lunch the morning, is there enough cooler? Can someone steals the meal (we are 150 students)?<br>

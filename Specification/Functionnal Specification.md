@@ -125,12 +125,11 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 We think about multiple cases :
 
-- Student : Marc
+- ![Student](Files/TORRES_Marc.png)
 - Student with Disability : Bruno
 - ![Stakeholders](Files/TIRVALD_Lonus.png)
-
 - Janitors : Marie
-- Staff : Julia
+- ![Staff](Files/Marcel_DUPONT.png)
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
 
