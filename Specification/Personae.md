@@ -107,3 +107,4 @@ At 17h, he leaves the school.
 2. Do we have enough toilets for men? (it needs two toilets for 20 people)
 3. We need private toilets for the staff of the school.
 4. We need distributers : food, coffee and beverage.
+
