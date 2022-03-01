@@ -112,3 +112,4 @@ At 17h, he leaves the school.
 ![SADC](./Personae_Marcel_DUPONT.png)
 ![SADC](./Personae_Claire_FRANCIS.png)
 ![SADC](./Personae_Yohann_BARBAN.png)
+![SADC](./Personae_Marc_TORRES.png)
