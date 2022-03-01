@@ -8,7 +8,7 @@
   - [Targets Audience](#targets-audience)
   - [Risks and assumptions](#risks-and-assumptions)
   - [Requirements](#requirements)
-  - [UseCases](#use-cases)
+  - [UseCases](#usecases)
   - [Definitions](#definitions)
 
 </details>
@@ -49,9 +49,9 @@ We need to make some modification to the existing renovation plan in order to re
 
 ## Ressources
 
-For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf[^5]
+For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf 
 
-To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^6]
+To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^5]
 
 ### Technologies Used
 
@@ -87,9 +87,9 @@ Don't got the time to create a stable multiplayer version.
 
 ## Requirements
 
-- Should have a good feeling while moving in the building.
+- Should have a good feeling while moving in the building. 
 - Interract with as many objects as possible.
-- Convert the B3[^1] 3D file into something usable with Unity[^7].
+- Convert the B3[^1] 3D file into something usable with Unity[^6]. 
 - Get the most realistic possible simulation.
 - Time management.
 - Security System :
@@ -110,16 +110,16 @@ Don't got the time to create a stable multiplayer version.
   - Change the utility of some room
   - Reform the design
 - A map so users know where they are all the time.
-- NPC[^2] to replace actual students
+- NPC[^2] to replace actual students 
 <!-- WIP -->
 
-## Use Cases
+## UseCases
 
 The reason of this project is to have a preview of the building finished, while we upgrade some points to improve the overall experience.
 
 With this, Algosup should be able to have a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
 
-This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR[^3] Headset.
+This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR[^3] Headset 
 
 <br>
 
@@ -147,32 +147,32 @@ NPC,  -->
 
 ## Definitions
 
-[^1]: The B3 is an old building in the center of Vierzon, which is also the next location for the connected campus who are going to be composed by Algosup, the CNAM and an incubator for start-up.
 
-[^2]: NPC stand for Non Playable Character, will be an A.I implemented in the application.
+[^1]: The B3 is an old building in the center of Vierzon, which is also the next location for the connected campus who are going to be composed by Algosup, the CNAM and an incubator for start-up
+
+[^2]: NPC stand for Non Playable Character, will be an A.I implemented in the application,
 
 [^3]: VR is the definition of virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The definition of ‘virtual’ is near and reality is what we experience as human beings. So the term ‘virtual reality’ basically means ‘near-reality’. This could, of course, mean anything but it usually refers to a specific type of reality emulation.
 
 [^4]: An ifc file is a CAD data exchange file format intended for description of architectural, building and construction industry date.
 
-[^5]: An pdf file is a file format developed to present documents, including text formatting and images.
+[^5]: Oculus Quest 2 is a Virtual reality headset who can run a program without any cords or a PC.
 
-[^6]: Oculus Quest 2 is a Virtual reality headset who can run a program without any cords or a PC.
+[^6]: Unity is a game engine designed to create games for a wide range of devices.
 
-[^7]: Unity is a game engine designed to create games for a wide range of devices.
+[^7]: Pro Builder is a native 3D model editor of unity. 
 
 [^8]: Pro Builder is a native 3D model editor of unity.
 
-[^9]: Netcode is a native tool from unity used to build multiplayer foundation system by allows the user to connet to a host by its IP and port.
+[^9]: Relay is a native tool from unity used to build the connexion link from an users to another 
 
-[^10]: Relay is a native tool from unity used to build the connexion link from an users to another.
+[^10]: Lobby is a native tool from unity used to create an entry point from a users to another.
 
-[^11]: Lobby is a native tool from unity used to create an entry point from a users to another.
+[^11]: Vivox is a native tool from unity used to let all users from a same lobby to talk to each other 
 
-[^12]: Vivox is a native tool from unity used to let all users from a same lobby to talk to each other.
+[^12]: Visual Studio is a source-code editor made by microsoft used to write code.
 
-[^13]: Visual Studio is a source-code editor made by microsoft used to write code.
+[^13]: Git is a software used to centralize our work throughout the project
 
-[^14]: Git is a software used to centralize our work throughout the project.
+[^14]: CAD exchanger is a software used to convert an .ifc file to an .fbx file in order to use it with unity 
 
-[^15]: CAD exchanger is a software used to convert an .ifc file to an .fbx file in order to use it with unity.
