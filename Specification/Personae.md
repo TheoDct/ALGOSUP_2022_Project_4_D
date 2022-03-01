@@ -108,8 +108,3 @@ At 17h, he leaves the school.
 3. We need private toilets for the staff of the school.
 4. We need distributers : food, coffee and beverage.
 
-
-![SADC](./Personae_Marcel_DUPONT.png)
-![SADC](./Personae_Claire_FRANCIS.png)
-![SADC](./Personae_Yohann_BARBAN.png)
-![SADC](./Personae_Marc_TORRES.png)
