@@ -125,7 +125,11 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 We think about multiple cases :
 
-Student 
+Student with disability
+
+![Student](Files/MEUNIER_Jules.png)
+
+Third Student
 
 ![Student](Files/TORRES_Marc.png)
 
@@ -144,6 +148,7 @@ Janitors
 Staff
 
 ![Staff](Files/Marcel_DUPONT.png)
+
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
 
