@@ -2,13 +2,16 @@
 <summary>Table of contents</summary>
 
 - [Overview](#overview)
+  - [Stakeholders](#stakeholders)
+  - [Approvals](#approvals)
+  - [Targets Audience](#targets-audience)
   - [Project Scope](#project-scope)
+  - [Risks and assumptions](#risks-and-assumptions)
+  - [Use Cases](#use-cases)
+  - [Requirements Specs](#requirements-specs)
+  - [Solution overview](#solution-overview)
   - [Ressources](#ressources)
     - [Technologies Used](#technologies-used)
-  - [Targets Audience](#targets-audience)
-  - [Risks and assumptions](#risks-and-assumptions)
-  - [Requirements](#requirements)
-  - [Use Cases](#use-cases)
   - [Definitions](#definitions)
 
 </details>
@@ -162,7 +165,8 @@ NPC,  -->
 
 <!-- ![ArrivalTime](Files/insertText.png)
 ![BreakTime](Files/insertText.png)
-![LunchTime](Files/insertText.png) -->
+![LunchTime](Files/insertText.png)
+![Cleaner](Files/Cleaner.png) -->
 
 <!-- INSERT USER FLOW HERE -->
 
