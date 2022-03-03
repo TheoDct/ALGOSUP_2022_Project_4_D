@@ -34,7 +34,20 @@
 
 ## Approvals
 
+- You need to come up with realistic and testable scenarios about access control, room usage, circulation, signage, furniture, storage, plugs, toilets, etc.
 
+- The virtual setup needs to be as close as possible to the real setup. 
+- For instance, if a door has a lock in the real world, it would also require some sort of badge/key in the virtual world, a room that can only fit 10 people in the real world, will have the equivalent capacity in the virtual world, etc.  
+
+- You need to obey the laws of physics in the virtual world, no super powers, you can’t walk across walls, fly, etc.
+You are required to use virtual reality headsets (Oculus Quest 2) with Unity framework programmed in C# to simulate the entire building.
+
+- Imagine profiles of users (personae) and the way they interact with the school during the day
+- You need to figure out how to convert the bimx file into something usable with Unity
+
+## Targets Audience
+
+Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
 
 
 ## Project Scope
@@ -59,11 +72,11 @@ We need to make some modification to the existing renovation plan in order to re
 
 ## Risks and assumptions
 
-Don't be usable with all VR[^3] headset.
+- Don't be usable with all VR[^3] headset.
 
-Bad performance while using the headset.
+- Bad performance while using the headset.
 
-Don't got the time to create a stable multiplayer version.
+- Don't got the time to create a stable multiplayer version.
 
 <!-- WIP -->
 
@@ -117,7 +130,7 @@ Have a headset compatible, download the application  -->
 
 NPC,  -->
 
-## Requirements
+## Requirements Specs
 
 - Should have a good feeling while moving in the building.
 - Interract with as many objects as possible.
@@ -147,6 +160,7 @@ NPC,  -->
 
 ## Solution overview
 
+<!-- INSERT USER FLOW HERE -->
 
 ## Ressources
 
@@ -172,9 +186,6 @@ Git[^14]
 
 CAD Exchanger[^15]
 
-## Targets Audience
-
-Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
 
 
 <!-- ## Error reporting -->
