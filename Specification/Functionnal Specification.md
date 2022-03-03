@@ -130,27 +130,27 @@ We think about multiple cases :
 
 Student with disability
 
-![Student](Files/MEUNIER_Jules.png)
+![Student](Files/1.MEUNIER_Jules.png)
 
 Third Student
 
-![Student](Files/TORRES_Marc.png)
+![Student](Files/1.TORRES_Marc.png)
 
 Second Student
 
-![Student](Files/Claire_FRANCIS.png)
+![Student](Files/1.FRANCIS_Claire.png)
 
 Stakeholders
 
-![Stakeholders](Files/TIRVALD_Lonus.png)
+![Stakeholders](Files/1.TIRVALD_Lonus.png)
 
 Janitors
 
-![Janitors](Files/Yohann_BARBAN.png)
+![Janitors](Files/1.BARBAN_Yohann.png)
 
 Staff
 
-![Staff](Files/Marcel_DUPONT.png)
+![Staff](Files/1.TORRES_Marc.png)
 
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
