@@ -10,9 +10,6 @@
   - [Use Cases](#use-cases)
   - [Requirements Specs](#requirements-specs)
   - [Solution overview](#solution-overview)
-    - [Students](#students)
-    - [Cleaners](#cleaners)
-    - [Staff](#staff)
   - [Ressources](#ressources)
     - [Technologies Used](#technologies-used)
   - [Definitions](#definitions)
@@ -164,20 +161,42 @@ NPC,  -->
 - NPC[^2] to replace actual students
 <!-- WIP -->
 
+## Use Cases
+
+The reason of this project is to have a preview of the building finished, while we upgrade some points to improve the overall experience.
+
+With this, Algosup should be able to have a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
+
+This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR[^3] Headset.
+
+<br>
+
+![SADC](Files/UseCases.png)
+
+We think about multiple cases :
+
+Student with disability
+
+![Student](Files/1.MEUNIER_Jules.png)
+
+Second Student
+
+![Student](Files/1.TORRES_Marc.png)
+
+Third Student
+
+![Student](Files/1.FRANCIS_Claire.png)
+
+Stakeholders
+
 ## Solution overview
 
 ### Students
 
-![ArrivalTime](Files/UserFlow_Student_ArrivalTime.png)
+![ArrivalTime](Files/UserFlow_Studient_ArrivalTime.png)
 ![BreakTime](Files/UserFlow_Student_BreakTime.png)
-<!-- ![LunchTime](Files/insertText.png) -->
-
-### Cleaners
-
 ![Cleaner](Files/UserFlow_Cleaner.png)
-
-### Staff
-
+<!-- ![LunchTime](Files/insertText.png) -->
 ![StaffArrival](Files/StaffArrival.png)
 ![StaffBreak](Files/staffBreakTime.png)
 ![StaffLunch](Files/staffLunchTime.png)
