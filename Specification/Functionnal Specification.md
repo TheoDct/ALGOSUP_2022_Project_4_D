@@ -27,6 +27,16 @@
 |[Nicolas Mida](https://github.com/Nicolas-Mida)| Team Member|
 |[Alexandre Bobis](https://github.com/AlexandreBobis)| Team Member| -->
 
+## Stakeholders
+
+- JEANNIN Franck
+- GOISBEAULT Sébastien
+
+## Approvals
+
+
+
+
 ## Project Scope
 
 <!-- - Goals: Programming a VR simulation of a visit day at [ALGOSUP](https://www.algosup.com/) inside the B3[^1] 
@@ -47,34 +57,6 @@ We need to make some modification to the existing renovation plan in order to re
 
 <!-- WIP -->
 
-## Ressources
-
-For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf[^5]
-
-To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^6]
-
-### Technologies Used
-
-We will use these softwares to achieve the project :
-
-Unity[^7] :
-
-- Pro Builder[^8]
-- Netcode[^9]
-- Relay[^10]
-- Lobby[^11]
-- Vivox[^12]
-
-Visual Studio[^13]
-
-Git[^14]
-
-CAD Exchanger[^15]
-
-## Targets Audience
-
-Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
-
 ## Risks and assumptions
 
 Don't be usable with all VR[^3] headset.
@@ -83,34 +65,6 @@ Bad performance while using the headset.
 
 Don't got the time to create a stable multiplayer version.
 
-<!-- WIP -->
-
-## Requirements
-
-- Should have a good feeling while moving in the building.
-- Interract with as many objects as possible.
-- Convert the B3[^1] 3D file into something usable with Unity[^7].
-- Get the most realistic possible simulation.
-- Time management.
-- Security System :
-  - Camera
-  - Door locked with card
-  - SoftWare
-- Alarm
-  - Fire
-    - Little red Boxes
-    - Extinguisher
-    - Smoke detector
-- Have differents scenarios depending on the role chosen :
-  - Don't do the same tasks all along the day
-  - Don't have access to the same place
-  - Have differents schedule
-- Upgrade the actual state of the provided plan to provide a better experience;
-  - Better room repartition
-  - Change the utility of some room
-  - Reform the design
-- A map so users know where they are all the time.
-- NPC[^2] to replace actual students
 <!-- WIP -->
 
 ## Use Cases
@@ -162,6 +116,66 @@ Have a headset compatible, download the application  -->
 <!-- ## Non functionnal requirements 
 
 NPC,  -->
+
+## Requirements
+
+- Should have a good feeling while moving in the building.
+- Interract with as many objects as possible.
+- Convert the B3[^1] 3D file into something usable with Unity[^7].
+- Get the most realistic possible simulation.
+- Time management.
+- Security System :
+  - Camera
+  - Door locked with card
+  - SoftWare
+- Alarm
+  - Fire
+    - Little red Boxes
+    - Extinguisher
+    - Smoke detector
+- Have differents scenarios depending on the role chosen :
+  - Don't do the same tasks all along the day
+  - Don't have access to the same place
+  - Have differents schedule
+- Upgrade the actual state of the provided plan to provide a better experience;
+  - Better room repartition
+  - Change the utility of some room
+  - Reform the design
+- A map so users know where they are all the time.
+- NPC[^2] to replace actual students
+<!-- WIP -->
+
+## Solution overview
+
+
+## Ressources
+
+For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf[^5]
+
+To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^6]
+
+### Technologies Used
+
+We will use these softwares to achieve the project :
+
+Unity[^7] :
+
+- Pro Builder[^8]
+- Netcode[^9]
+- Relay[^10]
+- Lobby[^11]
+- Vivox[^12]
+
+Visual Studio[^13]
+
+Git[^14]
+
+CAD Exchanger[^15]
+
+## Targets Audience
+
+Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
+
 
 <!-- ## Error reporting -->
 
