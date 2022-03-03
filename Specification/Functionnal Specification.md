@@ -8,6 +8,7 @@
   - [Project Scope](#project-scope)
   - [Risks and assumptions](#risks-and-assumptions)
   - [Use Cases](#use-cases)
+  - [Personae](#personae)
   - [Requirements Specs](#requirements-specs)
   - [Solution overview](#solution-overview)
   - [Ressources](#ressources)
@@ -16,19 +17,6 @@
 
 </details>
 <br>
-
-# Overview
-<!-- 
-## Teams Members
-
-|Members|Roles |
-|:---:|:---:|
-|[Arthur Lemoine](https://github.com/arthur-lemo1ne)| Tech Leader|
-|[Théo Diancourt](https://github.com/TheoDct)| Project Manager|
-|[Martin Lorut Gauriat](https://github.com/MartinLorutGauriat)| Team Member|
-|[Karine Vinette](https://github.com/KarineVinette)| Team Member|
-|[Nicolas Mida](https://github.com/Nicolas-Mida)| Team Member|
-|[Alexandre Bobis](https://github.com/AlexandreBobis)| Team Member| -->
 
 ## Stakeholders
 
@@ -50,53 +38,42 @@ You are required to use virtual reality headsets (Oculus Quest 2) with Unity fra
 
 ## Targets Audience
 
-Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
+Our targets audience is composed of all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout. It include future and actual students in order to have their opinion about what they think of the new design, potential investor could also be interested to have a more precise idea of the typical day in the school.
 
 
 ## Project Scope
-
-<!-- - Goals: Programming a VR simulation of a visit day at [ALGOSUP](https://www.algosup.com/) inside the B3[^1] 
-- Deliverables: Functionnal and technical specifications, simulation of a visit at ALGOSUP inside the B3[^1] 
-- Features: 
-    - Move into the B3
-    - Make interaction with environnement
-    - Security System
-    - NPC 
-    - Indication to visit (GPS)
-    - Have multiples characters 
-- Tasks: convert .bmix into something usable by Unity, make some 3D objects to make the experience better, make the features into the d software, 
-- Deadline: 7 April 2022 -->
 
 For this project we need to create a VR[^3] simulation of a regular day at Algosup in the next school building called the B3[^1] with features depending on your character and his role in the school.
 
 We need to make some modification to the existing renovation plan in order to repair some mistakes made by the architect.
 
+With this, Algosup should be able to be on a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
+
+This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup will be able to visit the school all in remote with only a VR[^3] Headset.
+
 <!-- WIP -->
 
 ## Risks and assumptions
 
-- Don't be usable with all VR[^3] headset.
+- The simulation may no be compatible with all VR[^3] headset.
 
-- Bad performance while using the headset.
+- We could have bad performances while using the headset.
 
-- Don't got the time to create a stable multiplayer version.
+- We may don't have enough time to create a stable multi-user version.
 
 <!-- WIP -->
 
 ## Use Cases
 
-The reason of this project is to have a preview of the building finished, while we upgrade some points to improve the overall experience.
-
-With this, Algosup should be able to have a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
-
-This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR[^3] Headset.
+<!-- WIP -->
 
 <br>
 
 ![SADC](Files/UseCases.png)
-O
 
-We think about multiple cases :
+## Personae
+
+We thought about multiple cases :
 
 First Student (with disability)
 
@@ -110,11 +87,11 @@ Third Student
 
 ![Student](Files/1.TORRES_Marc.png)
 
-Stakeholders
+Stakeholder
 
 ![Stakeholders](Files/1.TIRVALD_Lonus.png)
 
-Janitors
+Janitor
 
 ![Janitors](Files/1.BARBAN_Yohann.png)
 
@@ -125,107 +102,58 @@ Staff
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
 
-<!-- ## Configuration 
-
-Have a headset compatible, download the application  -->
-
-<!-- ## Non functionnal requirements 
-
-NPC,  -->
-
-## Requirements Specs
+## Requirements
 
 - Should have a good feeling while moving in the building.
 - Interract with as many objects as possible.
 - Convert the B3[^1] 3D file into something usable with Unity[^7].
 - Get the most realistic possible simulation.
-- Time management.
 - Security System :
-  - Camera
-  - Door locked with card
-  - SoftWare
-- Alarm
-  - Fire
-    - Little red Boxes
-    - Extinguisher
-    - Smoke detector
+  - Door unlockable with cards
 - Have differents scenarios depending on the role chosen :
   - Don't do the same tasks all along the day
   - Don't have access to the same place
   - Have differents schedule
 - Upgrade the actual state of the provided plan to provide a better experience;
-  - Better room repartition
-  - Change the utility of some room
-  - Reform the design
-- A map so users know where they are all the time.
+  - Change the utility of some rooms
+  - Create a interior design
 - NPC[^2] to replace actual students
-<!-- WIP -->
 
-## Use Cases
+## Configuration 
 
-The reason of this project is to have a preview of the building finished, while we upgrade some points to improve the overall experience.
+You will need to have a compatible headset, then download the application on the device and you are good to go.
 
-With this, Algosup should be able to have a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
+## Non Functionnal Requirements 
 
-This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup able to visit the school all in remote with only a VR[^3] Headset.
+ - Multi-user
+ - Time management
+ - Security System
+    - Software
+    - Cameras
+ - Fire alarm / security
+    - Little red boxes
+    - Extinguishers
+    - Smoke detectors
+- A map so users know where they are all the time.
 
-<br>
 
-![SADC](Files/UseCases.png)
-
-We think about multiple cases :
-
-Student with disability
-
-![Student](Files/1.MEUNIER_Jules.png)
-
-Second Student
-
-![Student](Files/1.TORRES_Marc.png)
-
-Third Student
-
-![Student](Files/1.FRANCIS_Claire.png)
-
-Stakeholders
-
-## Solution overview
+## Solution Overview
 
 ### Students
 
-![ArrivalTime](Files/UserFlow_Studient_ArrivalTime.png)
+![ArrivalTime](Files/UserFlow_Student_ArrivalTime.png)
 ![BreakTime](Files/UserFlow_Student_BreakTime.png)
-![Cleaner](Files/UserFlow_Cleaner.png)
-<!-- ![LunchTime](Files/insertText.png) -->
+![LunchTime](Files/UserFlow_Student_LunchTime.png)
+
+### Staff
+
 ![StaffArrival](Files/StaffArrival.png)
 ![StaffBreak](Files/staffBreakTime.png)
 ![StaffLunch](Files/staffLunchTime.png)
 
-## Ressources
+### Janitor
 
-For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf[^5]
-
-To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^6]
-
-### Technologies Used
-
-We will use these softwares to achieve the project :
-
-Unity[^7] :
-
-- Pro Builder[^8]
-- Netcode[^9]
-- Relay[^10]
-- Lobby[^11]
-- Vivox[^12]
-
-Visual Studio[^13]
-
-Git[^14]
-
-CAD Exchanger[^15]
-
-<!-- ## Error reporting -->
+![Janitor](Files/UserFlow_Cleaner.png)
 
 ## Definitions
 
