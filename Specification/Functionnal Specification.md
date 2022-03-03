@@ -160,11 +160,9 @@ NPC,  -->
 
 ## Solution overview
 
-<!-- ![ArrivalTime](Files/insertText.png)
-![BreakTime](Files/insertText.png)
-![LunchTime](Files/insertText.png) -->
-
-<!-- INSERT USER FLOW HERE -->
+![ArrivalTime](Files/UserFlow_Studient_ArrivalTime.png)
+![BreakTime](Files/UserFlow_Student_BreakTime.png)
+<!-- ![LunchTime](Files/insertText.png) -->
 
 ## Ressources
 
