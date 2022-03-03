@@ -91,7 +91,7 @@ This will be useful because we can imagine a presentation to some investors, fut
 <br>
 
 ![SADC](Files/UseCases.png)
-
+O
 
 We think about multiple cases :
 
@@ -160,6 +160,10 @@ NPC,  -->
 
 ## Solution overview
 
+<!-- ![ArrivalTime](Files/insertText.png)
+![BreakTime](Files/insertText.png)
+![LunchTime](Files/insertText.png) -->
+
 <!-- INSERT USER FLOW HERE -->
 
 ## Ressources
@@ -185,8 +189,6 @@ Visual Studio[^13]
 Git[^14]
 
 CAD Exchanger[^15]
-
-
 
 <!-- ## Error reporting -->
 
