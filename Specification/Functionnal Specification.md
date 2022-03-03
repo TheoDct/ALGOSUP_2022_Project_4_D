@@ -132,11 +132,11 @@ Student with disability
 
 ![Student](Files/1.MEUNIER_Jules.png)
 
-Third Student
+Second Student
 
 ![Student](Files/1.TORRES_Marc.png)
 
-Second Student
+Third Student
 
 ![Student](Files/1.FRANCIS_Claire.png)
 
@@ -150,8 +150,7 @@ Janitors
 
 Staff
 
-![Staff](Files/1.TORRES_Marc.png)
-
+![Staff](Files/1.DUPONT_Marcel.png)
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
 
