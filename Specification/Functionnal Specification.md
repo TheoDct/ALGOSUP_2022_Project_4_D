@@ -8,7 +8,7 @@
   - [Targets Audience](#targets-audience)
   - [Risks and assumptions](#risks-and-assumptions)
   - [Requirements](#requirements)
-  - [UseCases](#use-cases)
+  - [Use Cases](#use-cases)
   - [Definitions](#definitions)
 
 </details>
@@ -41,7 +41,7 @@
 - Tasks: convert .bmix into something usable by Unity, make some 3D objects to make the experience better, make the features into the d software, 
 - Deadline: 7 April 2022 -->
 
-For this project we need to create a VR[^3] simulation of a regular day at Algosup in the next school building called the B3[^1] with d features depending on your characters and his roles in the school.
+For this project we need to create a VR[^3] simulation of a regular day at Algosup in the next school building called the B3[^1] with features depending on your character and his role in the school.
 
 We need to make some modification to the existing renovation plan in order to repair some mistakes made by the architect.
 
@@ -49,7 +49,7 @@ We need to make some modification to the existing renovation plan in order to re
 
 ## Ressources
 
-For this project, the architect give us a 3d file in .ifc[^4] of the building and a 2d plan in .pdf[^5]
+For this project, the architect give us a 3D file in .ifc[^4] of the building and a 2D plan in .pdf[^5]
 
 To try the simulation all along the project we have been provided with the virtual reality headsets : Oculus Quest 2[^6]
 
@@ -73,7 +73,7 @@ CAD Exchanger[^15]
 
 ## Targets Audience
 
-Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
+Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it include future and actual students in order to have their opinion about what they think of the new design, potential investor could be interested to have a more precise idea of the typical day.
 
 ## Risks and assumptions
 
@@ -128,17 +128,17 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 We think about multiple cases :
 
-Student with disability
+First Student (with disability)
 
 ![Student](Files/1.MEUNIER_Jules.png)
-
-Third Student
-
-![Student](Files/1.TORRES_Marc.png)
 
 Second Student
 
 ![Student](Files/1.FRANCIS_Claire.png)
+
+Third Student
+
+![Student](Files/1.TORRES_Marc.png)
 
 Stakeholders
 
@@ -150,7 +150,7 @@ Janitors
 
 Staff
 
-![Staff](Files/1.TORRES_Marc.png)
+![Staff](Files/1.DUPONT_Marcel.png)
 
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
@@ -171,7 +171,7 @@ NPC,  -->
 
 [^2]: NPC stand for Non Playable Character, will be an A.I implemented in the application.
 
-[^3]: VR is the definition of virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The definition of ‘virtual’ is near and reality is what we experience as human beings. So the term ‘virtual reality’ basically means ‘near-reality’. This d could, of course, mean anything but it usually refers to a specific type of reality emulation.
+[^3]: VR is the definition of virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The definition of ‘virtual’ is near and reality is what we experience as human beings. So the term ‘virtual reality’ basically means ‘near-reality’. This could, of course, mean anything but it usually refers to a specific type of reality emulation.
 
 [^4]: An ifc file is a CAD data exchange file format intended for description of architectural, building and construction industry date.
 
