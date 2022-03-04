@@ -32,6 +32,8 @@ Technical Specifications for the project B3
 
 [Franck Jeannin](https://github.com/frje), Sébastien Goisbeault
 
+### [Trello](https://trello.com/b/E7V5FavS/algosupproject4d)
+
 ### Context
 
 For this project we wanted to create the next location of ALGOSUP into a fully immersive experience thanks to the VR technology, it should be used by the people who wants to discover what is a day at ALGOSUP
