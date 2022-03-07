@@ -9,7 +9,7 @@
   - [Risks and assumptions](#risks-and-assumptions)
   - [Use Cases](#use-cases)
   - [Personae](#personae)
-  - [Requirements Specs](#requirements-specs)
+  - [Requirements](#requirements)
   - [Solution overview](#solution-overview)
   - [Ressources](#ressources)
     - [Technologies Used](#technologies-used)
@@ -105,7 +105,7 @@ Staff
 
 - Should have a good feeling while moving in the building.
 - Interract with as many objects as possible.
-- Convert the B3[^1] 3D file into something usable with Unity[^7].
+- Convert the B3[^1] 3D file into something usable with Unity.
 - Get the most realistic possible simulation.
 - Security System :
   - Door unlockable with cards
@@ -142,14 +142,16 @@ You will need to have a compatible headset, then download the application on the
 
 ![ArrivalTime](Files/UserFlow_Student_ArrivalTime.png)
 ![BreakTime](Files/UserFlow_Student_BreakTime.png)
-![Janitor](Files/UserFlow_Cleaner.png)
+
+### Staff 
+
 ![StaffArrival](Files/StaffArrival.png)
 ![StaffBreak](Files/staffBreakTime.png)
 ![StaffLunch](Files/staffLunchTime.png)
 
 ### Janitor
 
-![Janitor](Files/UserFlow_Cleaner.png)
+![Janitor](Files/UserFlow_Janitor.png)
 
 ## Definitions
 
