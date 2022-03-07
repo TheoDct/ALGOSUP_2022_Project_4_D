@@ -52,11 +52,14 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 ## Risks and assumptions
 
-- The simulation may no be compatible with all VR[^3] headset.
+- The simulation may not be compatible with all VR[^3] headset.
 
-- We could have bad performances while using the headset.
+- We could have bad performances while using the headset, Wich could make peoples motion-sick
 
-- We may don't have enough time to create a stable multi-user version.
+- The simulation could make people motion-sick
+
+- We could run out of time to add a stable multi-user version.
+
 
 <!-- WIP -->
 
