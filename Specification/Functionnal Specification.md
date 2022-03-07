@@ -11,8 +11,6 @@
   - [Personae](#personae)
   - [Requirements Specs](#requirements-specs)
   - [Solution overview](#solution-overview)
-  - [Ressources](#ressources)
-    - [Technologies Used](#technologies-used)
   - [Definitions](#definitions)
 
 </details>
