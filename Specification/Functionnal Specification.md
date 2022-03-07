@@ -6,20 +6,21 @@
   - [Approvals](#approvals)
   - [Targets Audience](#targets-audience)
   - [Project Scope](#project-scope)
-  - [Risks and assumptions](#risks-and-assumptions)
-  - [Use Cases](#use-cases)
-  - [Personae](#personae)
+  - [Risks and assumption](#risks-and-assumptions)
   - [Requirements](#requirements)
   - [Configuration](#configuration)
-  - [Non Functionnal Requirements](#non-functionnal-requirements)
-  - [Solution overview](#solution-overview)
+  - [Non Functionnal requirements](#non-functionnal-requirements)
+  - [Personae](#personae)
+  - [Solution Overview](#overview)
     - [Students](#students)
     - [Staff](#staff)
     - [Janitor](#janitor)
+  - [Use cases](#use-cases)
   - [Definitions](#definitions)
 
 </details>
-<br>
+
+# Overview
 
 ## Stakeholders
 
@@ -47,13 +48,13 @@ Our targets audience is composed of all the people who have an interest in ALGOS
 
 ## Project Scope
 
-For this project we need to create a VR[^3] simulation of a regular day at Algosup in the next school building called the B3[^1] with features depending on your character and his role in the school. To verify if the architect's plan is correct and viable for a school.
+For this project we need to create a VR[^3] simulation of a regular day at ALGOSUP in the next school building called the B3[^1] with features depending on your character and his role in the school. To verify if the architect's plan is correct and viable for a school.
 
 We need to make some modification to the existing renovation plan in order to repair some possible mistakes made by the architect.
 
-With this, Algosup should be able to be on a whole new level to show the school, and people interested in one way or another in Algosup could have a real school day experience.
+With this, ALGOSUP should be able to be on a whole new level to show the school, and people interested in one way or another in ALGOSUP could have a real school day experience.
 
-This will be useful because we can imagine a presentation to some investors, future students or even just people interested in Algosup will be able to visit the school all in remote with only a VR[^3] Headset.
+This will be useful because we can imagine a presentation to some investors, future students or even just people interested in ALGOSUP will be able to visit the school all in remote with only a VR[^3] Headset.
 
 <!-- WIP -->
 
@@ -165,7 +166,7 @@ Staff
 
 ## Definitions
 
-[^1]: The B3 is an old building in the center of Vierzon, which is also the next location for the connected campus who are going to be composed by Algosup, the CNAM and an incubator for start-up.
+[^1]: The B3 is an old building in the center of Vierzon, which is also the next location for the connected campus who are going to be composed by ALGOSUP, the CNAM and an incubator for start-up.
 
 [^2]: NPC stand for Non Playable Character, will be an A.I implemented in the application.
 
