@@ -140,6 +140,7 @@ You will need to have a compatible headset, then download the application on the
 
 ![ArrivalTime](Files/UserFlow_Student_ArrivalTime.png)
 ![BreakTime](Files/UserFlow_Student_BreakTime.png)
+![LunchTime](Files/UserFlow_Student_LunchTime.png)
 
 ### Staff 
 
