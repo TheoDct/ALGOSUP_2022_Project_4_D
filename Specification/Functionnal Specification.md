@@ -59,11 +59,14 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 ## Risks and assumptions
 
-- The simulation may no be compatible with all VR[^3] headset.
+- The simulation may not be compatible with all VR[^3] headset.
 
-- We could have bad performances while using the headset.
+- We could have bad performances while using the headset, Wich could make peoples motion-sick
 
-- We may don't have enough time to create a stable multi-user version.
+- The simulation could make people motion-sick
+
+- We could run out of time to add a stable multi-user version.
+
 
 <!-- WIP -->
 
@@ -152,6 +155,7 @@ You will need to have a compatible headset, then download the application on the
 
 ![ArrivalTime](Files/UserFlow_Student_ArrivalTime.png)
 ![BreakTime](Files/UserFlow_Student_BreakTime.png)
+![LunchTime](Files/UserFlow_Student_LunchTime.png)
 
 ### Staff
 
