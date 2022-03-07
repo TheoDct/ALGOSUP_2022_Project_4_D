@@ -21,7 +21,9 @@ Technical Specifications for the project B3
 
 ## Reviewers
 
-[Franck Jeannin](https://github.com/frje),[Sébastien Goisbeault](https://github.com/sgoisbeault)
+[Franck Jeannin](https://github.com/frje),
+
+[Sébastien Goisbeault](https://github.com/sgoisbeault)
 
 ## Context
 

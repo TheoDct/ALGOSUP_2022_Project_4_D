@@ -67,7 +67,6 @@ This will be useful because we can imagine a presentation to some investors, fut
 
 - We could run out of time to add a stable multi-user version.
 
-
 <!-- WIP -->
 
 ## Requirements
@@ -86,6 +85,23 @@ This will be useful because we can imagine a presentation to some investors, fut
   - Change the utilities of some rooms
   - Create an interior design
 - NPC[^2] to replace current students
+
+## Configuration
+
+You will need to have a compatible headset, then download the application on the device and you are good to go.
+
+## Non Functionnal Requirements
+
+ - Multi-user
+ - Time management
+ - Security System
+    - Software
+    - Cameras
+ - Fire alarm / security
+    - Little red boxes
+    - Extinguishers
+    - Smoke detectors
+- A map so users know where they are all the time.
 
 ## Personae
 
@@ -120,7 +136,6 @@ Staff
 
 ![Staff](Files/1.DUPONT_Marcel.png)
 
-
 <!-- Add a Personae About Franck, with all the access into the school  -->
 
 ## Use Cases
@@ -131,22 +146,7 @@ Staff
 
 ![SADC](Files/UseCases.png)
 
-## Configuration
 
-You will need to have a compatible headset, then download the application on the device and you are good to go.
-
-## Non Functionnal Requirements 
-
- - Multi-user
- - Time management
- - Security System
-    - Software
-    - Cameras
- - Fire alarm / security
-    - Little red boxes
-    - Extinguishers
-    - Smoke detectors
-- A map so users know where they are all the time.
 
 
 ## Solution Overview
