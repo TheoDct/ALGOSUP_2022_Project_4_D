@@ -17,19 +17,6 @@
 </details>
 <br>
 
-# Overview
-<!-- 
-## Teams Members
-
-|Members|Roles |
-|:---:|:---:|
-|[Arthur Lemoine](https://github.com/arthur-lemo1ne)| Tech Leader|
-|[Théo Diancourt](https://github.com/TheoDct)| Project Manager|
-|[Martin Lorut Gauriat](https://github.com/MartinLorutGauriat)| Team Member|
-|[Karine Vinette](https://github.com/KarineVinette)| Team Member|
-|[Nicolas Mida](https://github.com/Nicolas-Mida)| Team Member|
-|[Alexandre Bobis](https://github.com/AlexandreBobis)| Team Member| -->
-
 ## Stakeholders
 
 - JEANNIN Franck
@@ -51,7 +38,6 @@ You are required to use virtual reality headsets (Oculus Quest 2) with Unity fra
 ## Targets Audience
 
 Our targets audience is all the people who have an interest in ALGOSUP and want to discover the school by visiting its new layout so it d include future and actual students in order to have their opinion about what they think of the new design, potential investor could be d  interested to have a more precise idea of the typical day.
-
 
 ## Project Scope
 
@@ -94,7 +80,6 @@ This will be useful because we can imagine a presentation to some investors, fut
 <br>
 
 ![SADC](Files/UseCases.png)
-O
 
 We think about multiple cases :
 
@@ -193,10 +178,9 @@ Stakeholders
 
 ### Students
 
-![ArrivalTime](Files/UserFlow_Studient_ArrivalTime.png)
+![ArrivalTime](Files/UserFlow_Student_ArrivalTime.png)
 ![BreakTime](Files/UserFlow_Student_BreakTime.png)
 ![Cleaner](Files/UserFlow_Cleaner.png)
-<!-- ![LunchTime](Files/insertText.png) -->
 ![StaffArrival](Files/StaffArrival.png)
 ![StaffBreak](Files/staffBreakTime.png)
 ![StaffLunch](Files/staffLunchTime.png)
@@ -234,27 +218,3 @@ CAD Exchanger[^15]
 [^2]: NPC stand for Non Playable Character, will be an A.I implemented in the application.
 
 [^3]: VR is the definition of virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The definition of ‘virtual’ is near and reality is what we experience as human beings. So the term ‘virtual reality’ basically means ‘near-reality’. This could, of course, mean anything but it usually refers to a specific type of reality emulation.
-
-[^4]: An ifc file is a CAD data exchange file format intended for description of architectural, building and construction industry date.
-
-[^5]: An pdf file is a file format developed to present documents, including text formatting and images.
-
-[^6]: Oculus Quest 2 is a Virtual reality headset who can run a program without any cords or a PC.
-
-[^7]: Unity is a game engine designed to create games for a wide range of devices.
-
-[^8]: Pro Builder is a native 3D model editor of unity.
-
-[^9]: Netcode is a native tool from unity used to build multiplayer foundation system by allows the user to connet to a host by its IP and port.
-
-[^10]: Relay is a native tool from unity used to build the connexion link from an users to another.
-
-[^11]: Lobby is a native tool from unity used to create an entry point from a users to another.
-
-[^12]: Vivox is a native tool from unity used to let all users from a same lobby to talk to each other.
-
-[^13]: Visual Studio is a source-code editor made by microsoft used to write code.
-
-[^14]: Git is a software used to centralize our work throughout the project.
-
-[^15]: CAD exchanger is a software used to convert an .ifc file to an .fbx file in order to use it with unity.
