@@ -109,8 +109,7 @@ We thought about multiple cases:
 
 First Student (with disability)
 
-<!-- 
-Add more precise information about user flow.
+<!-- Add more precise information about user flow.
 (people could come with bycicle)
 (where they put their car) -->
 
@@ -138,17 +137,6 @@ Staff
 
 <!-- Add a Personae About Franck, with all the access into the school  -->
 
-## Use Cases
-
-<!-- WIP -->
-
-<br>
-
-![SADC](Files/UseCases.png)
-
-
-
-
 ## Solution Overview
 
 ### Students
@@ -166,6 +154,14 @@ Staff
 ### Janitor
 
 ![Janitor](Files/UserFlow_Janitor.png)
+
+## Use Cases
+
+<!-- WIP -->
+
+<br>
+
+![SADC](Files/UseCases.png)
 
 ## Definitions
 
