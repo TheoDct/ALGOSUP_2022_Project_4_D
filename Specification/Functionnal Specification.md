@@ -56,19 +56,15 @@ With this, ALGOSUP should be able to be on a whole new level to show the school,
 
 This will be useful because we can imagine a presentation to some investors, future students or even just people interested in ALGOSUP will be able to visit the school all in remote with only a VR[^3] Headset.
 
-<!-- WIP -->
-
 ## Risks and assumptions
 
 - The simulation may not be compatible with all VR[^3] headset.
 
-- We could have bad performances while using the headset, Wich could make peoples motion-sick
+- We could have performances issues while using the headset.
 
-- The simulation could make people motion-sick
+- The simulation could make people motion-sick.
 
 - We could run out of time to add a stable multi-user version.
-
-<!-- WIP -->
 
 ## Requirements
 
@@ -82,7 +78,7 @@ This will be useful because we can imagine a presentation to some investors, fut
   - Don't do the same tasks all day long
   - Don't have access to the same place
   - Have differents schedule
-- Upgrade the current state of the provided plan to provide a better experience;
+- Upgrade the current state of the provided plan to provide a better experience:
   - Change the utilities of some rooms
   - Create an interior design
 - NPC[^2] to replace current students
@@ -110,10 +106,6 @@ We thought about multiple cases:
 
 First Student (with disability)
 
-<!-- Add more precise information about user flow.
-(people could come with bycicle)
-(where they put their car) -->
-
 ![Student](Files/1.MEUNIER_Jules.png)
 
 Second Student
@@ -136,9 +128,14 @@ Staff
 
 ![Staff](Files/1.DUPONT_Marcel.png)
 
-<!-- Add a Personae About Franck, with all the access into the school  -->
-
 ## Solution Overview
+
+### Arrival Possibilities
+
+There are differents ways students/staff can arrive to school:
+  - By car/motorcycle that they can park behind the school.
+  - By foot from their home or from train station. In that case they can just enter school since they don't have any vehicles.
+  - By bicycle or scooter, in that case we would need a parking in order to properly park these.
 
 ### Students
 
@@ -158,7 +155,7 @@ Staff
 
 ## Use Cases
 
-<!-- WIP -->
+This UseCase does not concern the school in itself but the simulation we will be programming.
 
 <br>
 
@@ -174,4 +171,4 @@ Staff
 
 [^4]: Motion sickness occurs due to a difference between the actual movement and the expected movement, which can cause illness in some users.
 
-[^5]: Welcomr is a company that creates connected locks in order to unlock from a phone by the bluetooth technology 
+[^5]: Welcomr is a company that creates connected locks in order to unlock from a phone by the bluetooth technology
