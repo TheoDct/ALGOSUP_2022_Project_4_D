@@ -75,7 +75,7 @@ This will be useful because we can imagine a presentation to some investors, fut
 - Security System:
   - Door unlockable with Welcomr[^5]
 - Have differents scenarios depending on the role chosen:
-  - Don't do the same tasks all day along
+  - Don't do the same tasks all day long
   - Don't have access to the same place
   - Have differents schedule
 - Upgrade the current state of the provided plan to provide a better experience:
