@@ -27,19 +27,74 @@ Technical Specifications for the project B3
 
 ## Context
 
-For this project we wanted to create the next location of ALGOSUP into a fully immersive experience thanks to the VR[^5] technology, it should be used by the people who wants to discover what is a day at ALGOSUP
+<!-- For this project we wanted to create the next location of ALGOSUP into a fully immersive experience thanks to the VR[^5] technology, it should be used by the people who wants to discover what is a day at ALGOSUP -->
 
-## Goals
+For this project, we were interested in verifying whether the plan provided by the architect for the renovation of the ALGOSUP building is viable for a school that can accommodate 180-200 people,
 
-The goal for this project is to have the most immersive and complete experience with all the features we wanted,
+Thus we will need to obey to the law of physics and realistic scenarios all day long,
+
+<!-- ## Solution
+
+We thought of creating a simulation of a typical day at ALGOSUP in VR, by this way we can check if the plan provided by the architect is correct and viable, the simulation must be as realistic as possible. -->
+
+<!-- WIP -->
+
+<!-- ## Problems
+
+- 3D Model not optimized for a VR simulation
+-  -->
+
+## Solution
+
+<!-- The goal for this project is to have the most immersive and complete experience with all the features we wanted, -->
+
+To resolve the possible problem, we have thought of numerous solutions for this project to have the most efficient way to interract with all the things related to the school while in VR, in order to have the most optimized experience as a users:
+
+### Current solution
+
+- We are looking to reshape the 3D model to gain in performance and change the functions of some rooms:
+It will take a lot of time, despite this we might be able to have a far better experiences as a users with a redesigned models and a gain of performances
+
+- 
+
+- Testing the simulation with NPC who are going to represents students, stakeholders, staff if everything is at the right place and is good for a building supposed to hold almost 200 peoples.
+
+### Limitations
+
+- We could be limited by the VR headset capability,
+
+- We probably wouldn't be able to run the simulation on other VR headset,
+
+- Don't be able to run properly a server to host the multi-users functionnality,
+
+- Some people might experience motion-sickness,
+
+### Test Plan
+
+We thoughts about making a Sandbox to developp our functionnality in order to have test all along the project and don't be affected by the ressources required to display the B3 in Unity.
+
+## Costs
+
+This project costs actually nothing to us,
+
+- VR headset are provided by ALGOSUP.
+- We don't mind about using premium assets.
+
+We might need to pay if we build a multi-users service based with a server and we don't host it on our PC.
+
+## Release
+
+It's a school project, planned to not be released on another platform however if the need were to arise we have the possibility to release it on "Unity Play"
+
+After a possible release if we have things to change we can make an update and provide an document so users know about the new features/corrected bugs via Patch Notes.
 
 ## MVP
 
-The actual Minimum Viable Product is a simple simulation of the B3[^3] where the user can walk into it
+The Minimum Viable Product is a simple simulation of the B3[^3] where the user can walk into it.
 
 ## Out of scope
 
-- Fully usable on all VR[^5] device
+- Fully usable on all VR[^5] headsets
 - Interract with the NPC[^4] by the voice
 - Make multi-users simulation
 
@@ -47,7 +102,7 @@ The actual Minimum Viable Product is a simple simulation of the B3[^3] where the
 
 [.NET](https://docs.microsoft.com/fr-fr/dotnet/)
 
-[Unity](https://unity.com/)
+[Unity](https://Unity.com/)
 
 [GitHub](https://github.com/TheoDct/ALGOSUP_2022_Project_4_D/tree/main) -->
 
@@ -87,9 +142,11 @@ We used this version because it's the last version of .NET and we wanted to use 
 
 We used this version because it's the last LTS[^2] version in order to have the best stability throughout the project.
 
-### Templates of project unity
+### Templates of project Unity
 
-We decided to use the template URP[^1] because it will simplify the rendering at the end of the project, it will also allow us to use a Graphic tool to program shaders in order to have better graphics and effects in the simulation.
+We decided to use the template URP[^1] because it will simplify the rendering at the end of the project, it will also allow us to use a graphic tool to program shaders in order to have better graphics and effects in the simulation.
+
+We will also develop the core of the software on 3D models before adapting it to a VR format to be more efficient, so we won't have to build every time we want to run the program.
 
 ## Device compatibility
 
@@ -101,6 +158,36 @@ VR headset :
 ## Download at
 
 [GitHub](https://github.com/TheoDct/ALGOSUP_2022_Project_4_D)
+
+## Work Estimates
+
+### Tasks
+
+- Rebuild from scratch the 3D Model of the Building based on the existing one
+- Make furnitures
+
+- Program the features needed:
+    - Interract with objects
+    - Storage System
+    - Security System
+        - Door locked with Welcomr, should be unlocked via bluetooth
+    - Have differents scenarios depending on the chosen role
+        - Students
+        - Staff
+        - Stakeholders
+    - NPC to replace stakeholders
+    - Settings Menu
+
+- Build a multi-users service
+- Possibly put the game on a downloadable platform
+
+### Milestones
+
+B3 Model finished: 03/15/22
+Functionnality finished: 03/07/22
+Adaptation to VR platform finished: 04/10/22
+
+Oral exam: 04/07/22
 
 ## Terminology
 
@@ -120,18 +207,18 @@ VR headset :
 
 [^8]: Unity is a game engine designed to create games for a wide range of devices.
 
-[^9]: Pro Builder is a native 3D model editor of unity.
+[^9]: Pro Builder is a native 3D model editor of Unity.
 
-[^10]: Netcode is a native tool from unity used to build multiplayer foundation system by allows the user to connet to a host by its IP and port.
+[^10]: Netcode is a native tool from Unity used to build multiplayer foundation system by allows the user to connet to a host by its IP and port.
 
-[^11]: Relay is a native tool from unity used to build the connexion link from an users to another.
+[^11]: Relay is a native tool from Unity used to build the connexion link from an users to another.
 
-[^12]: Lobby is a native tool from unity used to create an entry point from a users to another.
+[^12]: Lobby is a native tool from Unity used to create an entry point from a users to another.
 
-[^13]: Vivox is a native tool from unity used to let all users from a same lobby to talk to each other.
+[^13]: Vivox is a native tool from Unity used to let all users from a same lobby to talk to each other.
 
 [^14]: Visual Studio is a source-code editor made by microsoft used to write code.
 
 [^15]: Git is a software used to centralize our work throughout the project.
 
-[^16]: CAD exchanger is a software used to convert an .ifc file to an .fbx file in order to use it with unity.
+[^16]: CAD exchanger is a software used to convert an .ifc file to an .fbx file in order to use it with Unity.
