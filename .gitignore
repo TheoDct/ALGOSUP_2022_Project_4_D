@@ -47,9 +47,10 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# Unity3D generated meta files
+# Ignore all .meta file
 *.meta
-*.fbx.meta
+# Not source File with postfix
+!*.*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
