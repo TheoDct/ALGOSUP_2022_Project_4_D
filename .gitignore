@@ -49,8 +49,6 @@ ExportedObj/
 
 # Ignore all .meta file
 *.meta
-# Not source File with postfix
-!*.*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
