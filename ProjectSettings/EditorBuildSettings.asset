@@ -8,9 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/B3_JSP.unity
-    guid: ba8605347fa6a0d439b9a43de031c2f6
+    path: Assets/OnThePlace.unity
+    guid: d25e87239c10e40719f9e685f5e8de6c
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 63dcdb04b74983745a9305c9b5f105ba, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: be81e401b9ee61644a8978993459648c, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b519f257675b94e3193a08ac22e59141, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8af023baff1884920944424d49f521b3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3f4d18004d2eb4964bde4630d5087ee2, type: 2}
