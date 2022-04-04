@@ -5,12 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/B3_JSP.unity
-    guid: ba8605347fa6a0d439b9a43de031c2f6
+    path: Assets/OnThePlace.unity
+    guid: ab3cd736bfc5a444fb3672b272d36b61
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 63dcdb04b74983745a9305c9b5f105ba, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: be81e401b9ee61644a8978993459648c, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 95ecdecd77ec0ea4b9518f9ae62d1e46, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fad1cb9613463254698d332e09fb1402, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 84f367a8bd1ac0c48ae5178bc7bd7456, type: 2}
